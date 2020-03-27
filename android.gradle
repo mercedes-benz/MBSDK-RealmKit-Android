@@ -1,0 +1,9 @@
+ext {
+    compileSdk = 27
+    minSdk = 21
+    targetSdk = 27
+
+    moduleName = 'MBRealmKit'
+
+    sampleAppId = "com.daimler.mm.modules.${moduleName.toLowerCase()}.sample"
+}
